@@ -5,7 +5,7 @@ import App from './App';
 import Venu from './Venu'
 import reportWebVitals from './reportWebVitals';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById('roota'));
 root.render(
   <React.StrictMode>
     <App />
